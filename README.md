@@ -19,10 +19,15 @@
 - shadowrocket - https://apps.apple.com/ca/app/shadowrocket/id932747118  
 - v2box - https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
 
-Источники  
-https://github.com/barry-far/V2ray-Config  
-https://github.com/Epodonios/v2ray-configs  
+
 
 В приложение добавить лист подписки с конфигами.  
 Я планирую вести два листа:
+- по протоколу VLESS с шифрованием tls как наиболее недетектируемый (ссылка для добавления в программу клиент) (на момент первой публикации содержит чуть более 200 конфигов)```https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/vless-tls.txt```
+- 
 
+
+
+Источники  
+https://github.com/barry-far/V2ray-Config  
+https://github.com/Epodonios/v2ray-configs  
