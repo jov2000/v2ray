@@ -24,7 +24,9 @@
 В приложение добавить лист подписки с конфигами.  
 Я планирую вести два листа:
 - по протоколу VLESS с шифрованием tls как наиболее недетектируемый (на момент первой публикации содержит чуть более 200 конфигов)(ссылка для добавления в программу клиент)  
-```https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/vless-tls.txt```
+```
+https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/vless-tls.txt
+```
 - 
 
 
