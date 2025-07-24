@@ -1,30 +1,30 @@
 # Здравствуй, дорогой друг!  
-Многие просят меня посоветовать хороший VPN / поделиться конфигом (учёткой).  
+Многие просят меня посоветовать хороший VPN / поделиться конфигом (учёткой). ❓  
 И я решил создать этот репозиторий, где буду публиковать проверенные на работоспособность из РФ конфиги VPN по протоколам  
-совместимым с v2ray/sing_box/Xray (т.е. VLESS, VMESS, trojan, shadowsocks, shadowsocksr и прочие, и их расширения).  
+совместимым с v2ray/sing_box/Xray (т.е. VLESS, VMESS, trojan, shadowsocks, shadowsocksr и прочие, и их расширения).❗  
 
 ## Программы-клиенты которые необходимо установить  
 Для работы вам необходимо будет установить приложение клиент под вашу платформу.  
 Установить надо одну программу, это перечисление аналогов.  
   
-🤖 Android  
-- v2rayNG - https://github.com/2dust/v2rayNG/releases  
-- NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
+- 🤖 Android  
+  - v2rayNG - https://github.com/2dust/v2rayNG/releases  
+  - NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
 
-💻 Windows and 🐧 Linux  
-- v2rayN - https://github.com/2dust/v2rayN/releases  
-- nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
+- 💻 Windows and 🐧 Linux  
+  - v2rayN - https://github.com/2dust/v2rayN/releases  
+  - nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
-🍎 Mac and 📱 iOS  
-- v2RayTun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
-- streisand - https://apps.apple.com/ru/app/streisand/id6450534064  
-- foxray - https://apps.apple.com/ru/app/foxray/id6448898396  
-- shadowrocket - https://apps.apple.com/ru/app/shadowrocket/id932747118  
-- v2box - https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690  
+- 🍎 Mac and 📱 iOS  
+  - v2RayTun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
+  - streisand - https://apps.apple.com/ru/app/streisand/id6450534064  
+  - foxray - https://apps.apple.com/ru/app/foxray/id6448898396  
+  - shadowrocket - https://apps.apple.com/ru/app/shadowrocket/id932747118  
+  - v2box - https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690  
 
 
 ## Ссылки которые необходимо добавить в программу клиент
-В приложение добавить лист подписки с конфигами.  
+В приложение надо добавить лист подписки с конфигами. Чуть ниже разберу на примере одного приложения.  
   
 Я планирую вести два листа:
 - по протоколу VLESS с шифрованием tls как наиболее недетектируемый (на момент первой публикации содержит чуть более 200 конфигов)(ссылка для добавления в программу клиент)  
