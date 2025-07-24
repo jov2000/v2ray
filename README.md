@@ -14,7 +14,7 @@
 - nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
 🍎 Mac and 📱 iOS  
-- v2raytun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
+- v2RayTun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
 - streisand - https://apps.apple.com/ru/app/streisand/id6450534064  
 - foxray - https://apps.apple.com/ru/app/foxray/id6448898396  
 - shadowrocket - https://apps.apple.com/ru/app/shadowrocket/id932747118  
