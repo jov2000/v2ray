@@ -14,10 +14,11 @@
 - nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
 🍎 Mac and 📱 iOS  
-- streisand - https://apps.apple.com/us/app/streisand/id6450534064  
-- foxray - https://apps.apple.com/us/app/foxray/id6448898396  
-- shadowrocket - https://apps.apple.com/ca/app/shadowrocket/id932747118  
-- v2box - https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
+- v2raytun - https://apps.apple.com/ru/app/v2raytun/id6476628951  
+- streisand - https://apps.apple.com/ru/app/streisand/id6450534064  
+- foxray - https://apps.apple.com/ru/app/foxray/id6448898396  
+- shadowrocket - https://apps.apple.com/ru/app/shadowrocket/id932747118  
+- v2box - https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690  
 
 
 
