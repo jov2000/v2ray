@@ -12,5 +12,5 @@ https://github.com/barry-far/V2ray-Config
 https://github.com/Epodonios/v2ray-configs  
 
 
-[](https://i4.imageban.ru/out/2025/07/24/15268c7daa322a19942e57668049909c.jpg)
+![1](https://i4.imageban.ru/out/2025/07/24/15268c7daa322a19942e57668049909c.jpg)
 
