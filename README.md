@@ -6,19 +6,23 @@
 Для работы нам необходимо будет установить приложение клиент:  
   
 🤖 Android  
-v2rayNG - https://github.com/2dust/v2rayNG/releases  
-NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
+- v2rayNG - https://github.com/2dust/v2rayNG/releases  
+- NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
 
 💻 Windows and 🐧 Linux  
-v2rayN - https://github.com/2dust/v2rayN/releases  
-nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
+- v2rayN - https://github.com/2dust/v2rayN/releases  
+- nekoray - https://github.com/MatsuriDayo/nekoray/releases (не обновляется с декабря 2024)  
 
 🍎 Mac and 📱 iOS  
-streisand - https://apps.apple.com/us/app/streisand/id6450534064  
-foxray - https://apps.apple.com/us/app/foxray/id6448898396  
-shadowrocket - https://apps.apple.com/ca/app/shadowrocket/id932747118  
-v2box - https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
+- streisand - https://apps.apple.com/us/app/streisand/id6450534064  
+- foxray - https://apps.apple.com/us/app/foxray/id6448898396  
+- shadowrocket - https://apps.apple.com/ca/app/shadowrocket/id932747118  
+- v2box - https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
 
 Источники  
 https://github.com/barry-far/V2ray-Config  
 https://github.com/Epodonios/v2ray-configs  
+
+В приложение добавить лист подписки с конфигами.  
+Я планирую вести два листа:
+
