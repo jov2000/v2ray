@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/vless-tls.txt
 ```
 - ❌ (резервный) все остальные протоколы, с tls и без, работающие на момент публикации из московского региона (содержит и первый список в т.ч.)(на случай если я заброшу этот репозиторий, а в списке выше не осталось рабочих серверов, либо требуется какой-то конкретный сервер)(на момент первой публикации содержит порядка ~2000 конфигов) 
 ```
-(https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/full.txt)
+https://raw.githubusercontent.com/jov2000/v2ray/refs/heads/main/full.txt
 ```
 
 
