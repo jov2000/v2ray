@@ -10,7 +10,7 @@
 Установить надо одну программу, это перечисление аналогов.  
   
 - 🤖 Android  
-  - v2rayNG - https://github.com/2dust/v2rayNG/releases target="_blank"  
+  - v2rayNG - https://github.com/2dust/v2rayNG/releases  
   - NekoBox - https://github.com/MatsuriDayo/NekoBoxForAndroid/releases  
 
 - 💻 Windows and 🐧 Linux  
